@@ -275,7 +275,6 @@ int main()
     printf("\n"); 
     printf("Anagram Sequences: ");
     print_substrings3(text, word, strlen(text));  
-    printf("\n");
     
     return 0; 
 } 
